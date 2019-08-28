@@ -1,0 +1,18 @@
+images {
+  image: "/items/images/bubble.png"
+}
+images {
+  image: "/items/images/bubble_magnet.png"
+}
+images {
+  image: "/items/images/bubble_rocket.png"
+}
+images {
+  image: "/items/images/coin.png"
+}
+images {
+  image: "/items/images/heart.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

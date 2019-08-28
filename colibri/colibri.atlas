@@ -1,0 +1,82 @@
+animations {
+  id: "anim"
+  images {
+    image: "/colibri/images/colibri01.png"
+  }
+  images {
+    image: "/colibri/images/colibri02.png"
+  }
+  images {
+    image: "/colibri/images/colibri03.png"
+  }
+  images {
+    image: "/colibri/images/colibri04.png"
+  }
+  images {
+    image: "/colibri/images/colibri05.png"
+  }
+  images {
+    image: "/colibri/images/colibri06.png"
+  }
+  images {
+    image: "/colibri/images/colibri07.png"
+  }
+  images {
+    image: "/colibri/images/colibri08.png"
+  }
+  images {
+    image: "/colibri/images/colibri09.png"
+  }
+  images {
+    image: "/colibri/images/colibri10.png"
+  }
+  images {
+    image: "/colibri/images/colibri11.png"
+  }
+  images {
+    image: "/colibri/images/colibri12.png"
+  }
+  images {
+    image: "/colibri/images/colibri13.png"
+  }
+  images {
+    image: "/colibri/images/colibri14.png"
+  }
+  images {
+    image: "/colibri/images/colibri15.png"
+  }
+  images {
+    image: "/colibri/images/colibri16.png"
+  }
+  images {
+    image: "/colibri/images/colibri17.png"
+  }
+  images {
+    image: "/colibri/images/colibri18.png"
+  }
+  images {
+    image: "/colibri/images/colibri19.png"
+  }
+  images {
+    image: "/colibri/images/colibri20.png"
+  }
+  images {
+    image: "/colibri/images/colibri21.png"
+  }
+  images {
+    image: "/colibri/images/colibri22.png"
+  }
+  images {
+    image: "/colibri/images/colibri23.png"
+  }
+  images {
+    image: "/colibri/images/colibri24.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

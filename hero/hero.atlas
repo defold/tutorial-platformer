@@ -1,0 +1,352 @@
+animations {
+  id: "idle"
+  images {
+    image: "/hero/images/hero-idle_right_0.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_1.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_2.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_3.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_4.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_5.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_6.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_7.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_8.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_9.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_10.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_11.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_12.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_13.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_14.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_15.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_16.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_17.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_18.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_19.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_20.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_21.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_22.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_23.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_24.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_25.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_26.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_27.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_28.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_29.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_30.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_31.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_32.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_33.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_34.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_35.png"
+  }
+  images {
+    image: "/hero/images/hero-idle_right_36.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "run"
+  images {
+    image: "/hero/images/hero-run_right_0.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_1.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_2.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_3.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_4.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_5.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_6.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_7.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_8.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_9.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_10.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_11.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_12.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_13.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_14.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_15.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_16.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_17.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_18.png"
+  }
+  images {
+    image: "/hero/images/hero-run_right_19.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "jump"
+  images {
+    image: "/hero/images/hero-jump_right_0.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_1.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_2.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_3.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_4.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_5.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_6.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_7.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_8.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_9.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_10.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_11.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_12.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_13.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_14.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_15.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_16.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_17.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_18.png"
+  }
+  images {
+    image: "/hero/images/hero-jump_right_19.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "fall"
+  images {
+    image: "/hero/images/hero-fall_right_0.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_1.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_2.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_3.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_4.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_5.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_6.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_7.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_8.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_9.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_10.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_11.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_12.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_13.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_14.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_15.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_16.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_17.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_18.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_19.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_20.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_21.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_22.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_23.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_24.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_25.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_26.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_27.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_28.png"
+  }
+  images {
+    image: "/hero/images/hero-fall_right_29.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 4
+inner_padding: 0

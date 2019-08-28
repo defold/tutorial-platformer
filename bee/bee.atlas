@@ -1,0 +1,153 @@
+animations {
+  id: "idle"
+  images {
+    image: "/bee/images/Bee01.png"
+  }
+  images {
+    image: "/bee/images/Bee02.png"
+  }
+  images {
+    image: "/bee/images/Bee03.png"
+  }
+  images {
+    image: "/bee/images/Bee04.png"
+  }
+  images {
+    image: "/bee/images/Bee05.png"
+  }
+  images {
+    image: "/bee/images/Bee06.png"
+  }
+  images {
+    image: "/bee/images/Bee07.png"
+  }
+  images {
+    image: "/bee/images/Bee08.png"
+  }
+  images {
+    image: "/bee/images/Bee09.png"
+  }
+  images {
+    image: "/bee/images/Bee10.png"
+  }
+  images {
+    image: "/bee/images/Bee11.png"
+  }
+  images {
+    image: "/bee/images/Bee12.png"
+  }
+  images {
+    image: "/bee/images/Bee13.png"
+  }
+  images {
+    image: "/bee/images/Bee14.png"
+  }
+  images {
+    image: "/bee/images/Bee15.png"
+  }
+  images {
+    image: "/bee/images/Bee16.png"
+  }
+  images {
+    image: "/bee/images/Bee17.png"
+  }
+  images {
+    image: "/bee/images/Bee18.png"
+  }
+  images {
+    image: "/bee/images/Bee19.png"
+  }
+  images {
+    image: "/bee/images/Bee20.png"
+  }
+  images {
+    image: "/bee/images/Bee21.png"
+  }
+  images {
+    image: "/bee/images/Bee22.png"
+  }
+  images {
+    image: "/bee/images/Bee23.png"
+  }
+  images {
+    image: "/bee/images/Bee24.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "shot"
+  images {
+    image: "/bee/images/Bee_shot01.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot02.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot03.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot04.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot05.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot06.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot07.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot08.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot09.png"
+  }
+  images {
+    image: "/bee/images/Bee_shot10.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "sting"
+  images {
+    image: "/bee/images/Sting01.png"
+  }
+  images {
+    image: "/bee/images/Sting02.png"
+  }
+  images {
+    image: "/bee/images/Sting03.png"
+  }
+  images {
+    image: "/bee/images/Sting04.png"
+  }
+  images {
+    image: "/bee/images/Sting05.png"
+  }
+  images {
+    image: "/bee/images/Sting06.png"
+  }
+  images {
+    image: "/bee/images/Sting07.png"
+  }
+  images {
+    image: "/bee/images/Sting08.png"
+  }
+  images {
+    image: "/bee/images/Sting09.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

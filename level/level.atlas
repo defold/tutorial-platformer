@@ -1,0 +1,74 @@
+images {
+  image: "/level/images/ground01.png"
+}
+images {
+  image: "/level/images/ground02.png"
+}
+images {
+  image: "/level/images/ground03.png"
+}
+images {
+  image: "/level/images/rock.png"
+}
+images {
+  image: "/level/images/rock_planks.png"
+}
+images {
+  image: "/level/images/sign_attention.png"
+}
+images {
+  image: "/level/images/sign_direction.png"
+}
+images {
+  image: "/level/images/sign_plus.png"
+}
+images {
+  image: "/level/images/vines01.png"
+}
+images {
+  image: "/level/images/vines02.png"
+}
+images {
+  image: "/level/images/vines03.png"
+}
+images {
+  image: "/level/images/wall01.png"
+}
+images {
+  image: "/level/images/wall02.png"
+}
+images {
+  image: "/level/images/wall03.png"
+}
+images {
+  image: "/level/images/wall04.png"
+}
+images {
+  image: "/level/images/wall05.png"
+}
+images {
+  image: "/level/images/wall06.png"
+}
+animations {
+  id: "wall_right"
+  images {
+    image: "/level/images/wall_long.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "wall_left"
+  images {
+    image: "/level/images/wall_long.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 30
+  flip_horizontal: 1
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 4
+inner_padding: 0

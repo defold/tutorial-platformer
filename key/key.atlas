@@ -1,0 +1,49 @@
+images {
+  image: "/key/images/key_00.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/key/images/key_01.png"
+  }
+  images {
+    image: "/key/images/key_02.png"
+  }
+  images {
+    image: "/key/images/key_03.png"
+  }
+  images {
+    image: "/key/images/key_04.png"
+  }
+  images {
+    image: "/key/images/key_05.png"
+  }
+  images {
+    image: "/key/images/key_06.png"
+  }
+  images {
+    image: "/key/images/key_07.png"
+  }
+  images {
+    image: "/key/images/key_08.png"
+  }
+  images {
+    image: "/key/images/key_09.png"
+  }
+  images {
+    image: "/key/images/key_10.png"
+  }
+  images {
+    image: "/key/images/key_11.png"
+  }
+  images {
+    image: "/key/images/key_12.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 30
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
